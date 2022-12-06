@@ -1,2 +1,2 @@
 # CV
-CV in pure html
+Personal site from Udemy course
